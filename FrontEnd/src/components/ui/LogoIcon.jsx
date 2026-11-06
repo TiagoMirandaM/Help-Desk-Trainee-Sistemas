@@ -14,6 +14,6 @@ export function LogoIcon({ size = 24, className = '', style, ...props }) {
         ...style 
       }} 
       {...props}
-    />
+    />git add .
   );
 }

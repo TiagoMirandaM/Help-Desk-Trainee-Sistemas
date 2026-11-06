@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Django
+.env
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+*.log
+
+# Testes e ferramentas
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# IDEs e sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
